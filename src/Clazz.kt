@@ -8,6 +8,27 @@ data class Clazz(val name: String, val type: String) {
     val profile
         get() = m_profile.toMap()
 
+    private val m_skills = HashSet<String>()
+    val skills
+        get() = m_skills.toSet()
+
+    private val m_talents = HashSet<String>()
+    val talents
+        get() = m_talents.toSet()
+
+    private val m_trappings = HashSet<String>()
+    val trappings
+        get() = m_trappings.toSet()
+
+    private val m_entries = HashSet<String>()
+    val entries
+        get() = m_entries.toSet()
+
+    private val m_exits = HashSet<String>()
+    val exits
+        get() = m_exits.toSet()
+
+
     fun setMainProfile(profileString: String) {
         val list = profileString.split(" ").map {
             val ret = it.replace("+", "")
@@ -40,7 +61,35 @@ data class Clazz(val name: String, val type: String) {
         }
     }
 
+    fun setSkills(skillsString: String) {
+        m_skills.addAll(
+                skillsString.replace("\\([^\\)]+\\)".toRegex(), "")
+                        .split(",|\r?\n".toRegex())
+                        .map { it.trim() }
+                        .filter { it.length > 2 }
+                        .toList()
+        )
+    }
+    fun setTalents(talentsString: String) {
+        m_talents.addAll(
+                talentsString.replace("\\([^\\)]+\\)".toRegex(), "")
+                        .split(",|\r?\n".toRegex())
+                        .map { it.trim() }
+                        .filter { it.length > 2 }
+                        .toList()
+        )
+    }
+    fun setTrappings(trappingsString: String) {
+        m_trappings.addAll(trappingsString.split(",|\r?\n".toRegex()).map { it.trim() }.toList())
+    }
+    fun setEntries(entriesString: String) {
+        m_entries.addAll(entriesString.split(",|\r?\n".toRegex()).map { it.trim() }.toList())
+    }
+    fun setExits(exitsString: String) {
+        m_exits.addAll(exitsString.split(",|\r?\n".toRegex()).map { it.trim() }.toList())
+    }
+
     override fun toString(): String {
-        return "$name ($type): $profile"
+        return "$name ($type): $profile, $skills, $talents"
     }
 }
