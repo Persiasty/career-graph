@@ -401,8 +401,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
 +6 – – – – – – –
-Skills: Academic Knowledge (Genealogy/Heraldry or History) (Int), Blather (Fel) or
-Charm (Fel), Command (Fel), Common Knowledge (any two) (Int), Gossip (Fel),
+Skills: Academic Knowledge (Genealogy/Heraldry or History) (Int), Blather (Fel) or Charm (Fel), Command (Fel), Common Knowledge (any two) (Int), Gossip (Fel),
 Haggle (Fel), Perception (Int), Performer (Actor) (Fel), Read/Write (Int), Ride (Ag), Speak
 Language (any three) (Int)
 Talents: Dealmaker or Schemer, Etiquette, Linguistics or Suave, Master Orator or Savvy, Public Speaking
@@ -1306,8 +1305,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +4 – – – – – –
-Skills: Academic Knowledge (History or Law, Strategy Tactics or Theology) (Int), Charm (Fel) or
-Intimidate (S), Command (Fel), Common Knowledge (Kislev or Troll Country) (Int), Gossip (Fel)
+Skills: Academic Knowledge (History or Law, Strategy Tactics or Theology) (Int), Charm (Fel) or Intimidate (S), Command (Fel), Common Knowledge (Kislev or Troll Country) (Int), Gossip (Fel)
 or Outdoor Survival (Int), Haggle (Fel), Perception (Int), Ride (Ag), Speak Language (Kislevarin)
 (Int)
 Talents: Coolheaded or Suave, Public Speaking
@@ -2543,9 +2541,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Animal Care or Drive, Charm or Evaluate, Gossip, Haggle, Perception, Search, Any one of:
-Trade (Armourer, Bowyer, Cartographer, Cook, Gunsmith, Herbalist, Merchant, Smith, Tailor, or
-Weaponsmith), Speak Language (Breton, Kislevian, or Tilean), Sleight of Hand
+Skills: Animal Care or Drive, Charm or Evaluate, Gossip, Haggle, Perception, Search, Trade (Armourer, Bowyer, Cartographer, Cook, Gunsmith, Herbalist, Merchant, Smith, Tailor, or Weaponsmith), Speak Language (Breton, Kislevian, or Tilean), Sleight of Hand
 Talents: Dealmaker or Street Fighter, Flee!, Hardy or Suave, Resistance to Disease or Seasoned Traveller
 Trappings: Lucky Charm or Trade Tools, Pouch, Tent
 Career Entries: Bone Picker, Servant
@@ -2858,8 +2854,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Academic Knowledge (geography), Navigation, Outdoor Survival or
-Ride, Perception, Read/Write, Speak Language (any 2), Trade (cartography)
+Skills: Academic Knowledge (geography), Navigation, Outdoor Survival or Ride, Perception, Read/Write, Speak Language (any 2), Trade (cartography)
 Talents: Excellent Vision, Orientation, Seasoned Traveller or Super
 Numerate
 Trappings: Writing Kit, Pony with saddle & harness, 1d10 map cases
@@ -3712,8 +3707,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +4 – – – – – –
-Skills: Academic Knowledge (the Arts or History) or Gamble, Blather, Charm, Command or
-Performer (any one), Common Knowledge (Bretonnia or Tilea), Evaluate, Gossip, Perception,
+Skills: Academic Knowledge (the Arts or History) or Gamble, Blather, Charm, Command or Performer (any one), Common Knowledge (Bretonnia or Tilea), Evaluate, Gossip, Perception,
 Read/Write, Ride, Speak Language (Breton or Tilean), Speak Language (Reikspiel)
 Talents: Dealmaker or Etiquette, Public Speaking, Savvy or Suave, Schemer or Specialist
 Weapon Group (Fencing)
@@ -4827,10 +4821,9 @@ Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
 Skills: Animal Care or Swim, Charm, Common Knowledge (the Empire), Evaluate or Gossip, Perception,
-Performer (any two), Speak Language (Reikspiel), Any one of: Animal Training, Blather, Charm Animal,
-Hypnotism, Ride, Scale Sheer Surface, Sleight of Hand, Ventriloquism
-Talents: Any two of: Lightning Reflexes, Mimic, Public Speaking, Quick Draw, Sharpshooter, Specialist
-Weapon Group (Throwing), Trick Riding, Very Strong, Wrestling
+Performer (any two), Speak Language (Reikspiel), Animal Training or Blather or Charm Animal or Hypnotism or Ride or Scale Sheer Surface or Sleight of Hand or Ventriloquism
+Talents: Lightning Reflexes or Mimic or Public Speaking or Quick Draw or Sharpshooter or Specialist
+Weapon Group (Throwing) or Trick Riding or Very Strong or Wrestling
 Trappings: Light Armour (Leather Jerkin), Any one of: Instrument (any one), Trade Tools (Performer), 3
 Throwing Knives, 2 Throwing Axes, Any one of: Costume, One Set of Good Craftsmenship Clothes
 Career Entries: Animal Trainer, Herald, Rogue, Thief, Vagabond
@@ -5241,8 +5234,7 @@ A W SB TB M Mag IP FP
 +1 +6 – – – +2 – –
 Skills: Academic Knowledge (Theology), Academic Knowledge (Daemonology or Necromancy), Channelling, Command, Hypnotism, Intimidate,
 Magical Sense, Perception, Speak Arcane Language (Magick), Speak Arcane Language (Daemonic), Speak Language (any one)
-Talents: Coolheaded or Savvy, Divine Lore (any one), Lesser Magic (Exorcism), Lesser Magic (any one), Menacing or Sixth Sense, Strong-minded or
-Stout-hearted
+Talents: Coolheaded or Savvy, Divine Lore (any one), Lesser Magic (Exorcism), Lesser Magic (any one), Menacing or Sixth Sense, Strong-minded or Stout-hearted
 Trappings: Cult Robes, License, Prayer Book, Religious Symbol
 Career Entries: Anointed Priest, Priest Career Exits: Anointed Priest, Lay Priest, Scholar, Witch Hunter
 New Lesser Magic Spell
@@ -5634,8 +5626,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Charm, Common Knowledge (the Empire), Evaluate or Secret Language (Ranger Tongue), Gossip or
-Intimidate, Haggle, Perception, Row, Swim
+Skills: Charm, Common Knowledge (the Empire), Evaluate or Secret Language (Ranger Tongue), Gossip or Intimidate, Haggle, Perception, Row, Swim
 Talents: Marksman or Suave, Specialist Weapon Group (Gunpowder) or Street Fighting
 Trappings: Crossbow with 10 bolts or Blunderbuss with powder/ammunition enough for 10 shots, Light
 Armour (Leather Jack)
@@ -5789,8 +5780,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Common Knowledge (the Empire or the Wasteland), Consume Alcohol or
-Haggle, Navigation or Trade (Merchant), Outdoor Survival, Perception, Row, Sail,
+Skills: Common Knowledge (the Empire or the Wasteland), Consume Alcohol or Haggle, Navigation or Trade (Merchant), Outdoor Survival, Perception, Row, Sail,
 Speak Language (Reikspiel or Norse), Swim
 Talents: Hardy or Savvy, Orientation or Street Fighting
 Trappings: Fish Hook and Line, Spear
@@ -6661,8 +6651,7 @@ A W SB TB M Mag IP FP
  – +2 – – – – – –
 Skills: Charm, Common Knowledge (Bretonnia), Dodge Blow, Intimidate, Outdoor Survival,
 Perception
-Talents: Etiquette, Hardy or Very Resilient, Specialist Weapon Group (Two-handed), Stout-hearted or
-Strong-minded
+Talents: Etiquette, Hardy or Very Resilient, Specialist Weapon Group (Two-handed), Stout-hearted or Strong-minded
 Trappings: Halberd, Light Armour (Leather Jack), Bits That Fell Off the Back of A Grail Knight
 Career Entries: Carcassonne Shepherd, Hunter, Herrimault, Outlaw, Peasant, Tradesman, Vagabond
 Career Exits: Battle Pilgrim, Carcassonne Shepherd, Mercenary, Herrimault, Vagabond
@@ -7293,8 +7282,7 @@ A W SB TB M Mag IP FP
  – +2 – – – +1 – –
 Skills: Animal Care or Channelling, Charm Animal or Concealment, Consume
 Alcohol or Gossip, Haggle or Outdoor Survival, Heal, Magical Sense or Prepare
-Poisons, Perception, Read/Write or Speak Arcane Language (Magick), Set Trap or
-Silent Move, Trade (Apothecary or Herbalist)
+Poisons, Perception, Read/Write or Speak Arcane Language (Magick), Set Trap or Silent Move, Trade (Apothecary or Herbalist)
 Talents: Coolheaded or Fast Hands, Petty Magic (Hedge) or Rover
 Trappings: Antitoxin Kit, Healing Draught, Healing Poultice, Lucky Charm
 Career Entries: Apothecary, Peasant, Hedge Witch
@@ -7373,12 +7361,10 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +3 – – – +2 – –
-Skills: Animal Care or Channelling, Charm Animal or Concealment, Command, Evaluate or
-Navigation, Follow Trail or Consume Alcohol, Gossip or Intimidate, Haggle or Outdoor Survival,
+Skills: Animal Care or Channelling, Charm Animal or Concealment, Command, Evaluate or Navigation, Follow Trail or Consume Alcohol, Gossip or Intimidate, Haggle or Outdoor Survival,
 Heal, Magical Sense or Prepare Poison, Perception, Read/Write or Speak Arcane Language (Magick),
 Set Trap or Silent Move, Trade (Apothecary or Herbalist)
-Talents: Dealmaker or Fast Hands, Lesser Magic (any one) or Orientation, Lesser Magic (any one) or
-Fleet Footed, Luck or Witch Lore (Hedge), Meditation or Strong-minded
+Talents: Dealmaker or Fast Hands, Lesser Magic (any one) or Orientation, Lesser Magic (any one) or Fleet Footed, Luck or Witch Lore (Hedge), Meditation or Strong-minded
 Trappings: Antitoxin Kit, Healing Poultice, Staff, Trade Tools (Apothecary or Herbalist), 1d5 Amulets
 and Charms, 1d5 Healing Draughts, 1d5 Potions
 Career Entries: Hedgecraft Apprentice
@@ -7457,8 +7443,7 @@ A W SB TB M Mag IP FP
 Skills: Academic Knowledge (any two), Animal Care or Channelling, Charm Animal or Concealment,
 Command, Common Knowledge (the Empire), Evaluate, Follow Trail or Consume Alcohol, Gossip,
 Haggle or Outdoor Survival, Heal, Intimidate, Magical Sense or Prepare Poison, Navigation, Perception,
-Read/Write or Speak Arcane Language (Magick), Set Trap or Silent Move, Trade (Apothecary or
-Herbalist)
+Read/Write or Speak Arcane Language (Magick), Set Trap or Silent Move, Trade (Apothecary or Herbalist)
 Talents: Aethyric Attunement or Savvy, Excellent Vision or Hardy, Lesser Magic (any one) or Night
 Vision, Lesser Magic (any one) or Sixth Sense, Lesser Magic (any one) or Stout-hearted
 Trappings: Antitoxin Kit, Staff, Trade Tools (Apothecary or Herbalist), 1d10 Amulets and
@@ -8297,8 +8282,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +4 – – – +2 – –
-Skills: Academic Knowledge (Magic) (Int), Channelling (WP), Command (Fel) or
-Intimidate (S), Common Knowledge (Kislev) (Int), Magical Sense (WP), Navigation
+Skills: Academic Knowledge (Magic) (Int), Channelling (WP), Command (Fel) or Intimidate (S), Common Knowledge (Kislev) (Int), Magical Sense (WP), Navigation
 (Int) or Read/Write (Int), Outdoor Survival (Int) or Ride (Ag), Perception (Int),
 Speak Arcane Language (Magick) (Int), Speak Language (Kislevarin) (Int)
 Talents: Coolheaded, Lesser Magic (any three), Meditation or Mighty Missile, Stout-hearted or Strong-minded, Witch Lore (Ice)
@@ -8802,8 +8786,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +3 – – – +2 – –
-Skills: Academic Knowledge (Magic), Academic Knowledge (any one), Channelling, Charm or
-Intimidate, Common Knowledge (any two), Gossip, Magical Sense, Read/Write, Ride or Swim,
+Skills: Academic Knowledge (Magic), Academic Knowledge (any one), Channelling, Charm or Intimidate, Common Knowledge (any two), Gossip, Magical Sense, Read/Write, Ride or Swim,
 Speak Arcane Language (Magick), Speak Language (any two)
 Talents: Arcane Lore (any one) or Dark Lore (any one), Aethyric Attunement or Dark Magic, Fast Hands or Very Resilient, Lesser Magic (any two),
 Meditation or Mighty Missile
@@ -9440,8 +9423,7 @@ A W SB TB M Mag IP FP
 +2 +8 – – – – – –
 Skills: Academic Knowledge (Genealogy/Heraldry or Religion), Academic
 Knowledge (Strategy/Tactics), Animal Training, Charm, Command, Common
-Knowledge (any three), Dodge Blow, Perception, Read/Write, Ride, Secret Language (Battle Tongue), Secret Signs (Scout or
-Templar), Speak Language (Breton, Estalian, Kislevian, or Tilean)
+Knowledge (any three), Dodge Blow, Perception, Read/Write, Ride, Secret Language (Battle Tongue), Secret Signs (Scout or Templar), Speak Language (Breton, Estalian, Kislevian, or Tilean)
 Talents: Etiquette, Lightning Parry, Seasoned Traveller, Specialist Weapon Group (Fencing), Specialist Weapon Group (Parrying), Stout-hearted,
 Strike to Injure, Strike to Stun
 Trappings: Buckler or Main Gauche, Rapier or Foil, Heavy Armour (Best Craftsmenship Full Plate Armour), Religious Symbol, 50 gc
@@ -9685,8 +9667,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
 +1 +4 – – – – – –
-Skills: Academic Knowledge (Strategy/Tactics), Charm Animal, Command or
-Intimidate, Dodge Blow, Follow Trail, Outdoor Survival or Scale Sheer Surface, Perception, Ride, Search,
+Skills: Academic Knowledge (Strategy/Tactics), Charm Animal, Command or Intimidate, Dodge Blow, Follow Trail, Outdoor Survival or Scale Sheer Surface, Perception, Ride, Search,
 Secret Language (Ranger Tongue) or Secret Signs (Ranger)
 Talents: Fleet Footed or Keen Senses, Orientation, Rover, Specialist Weapon Group (Longbow), Strike Mighty Blow or Sure Shot
 Trappings: Hand Weapon (sword), Light Armour (Leather Jack, Leather Leggings), Longbow with 10 arrows.
@@ -10004,8 +9985,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Academic Knowledge (Genealogy/Heraldry or History), Academic Knowledge (Law), Blather or
-Charm, Common Knowledge (the Empire), Gossip or Haggle, Perception, Read/Write, Secret Language
+Skills: Academic Knowledge (Genealogy/Heraldry or History), Academic Knowledge (Law), Blather or Charm, Common Knowledge (the Empire), Gossip or Haggle, Perception, Read/Write, Secret Language
 (Guild Tongue), Speak Language (Reikspiel)
 Talents: Dealmaker or Etiquette, Public Speaking, Savvy or Suave
 Armour: None
@@ -10568,8 +10548,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +4 – – – +3 – –
-Skills: Academic Knowledge (Magic), Academic Knowledge (any two), Channelling, Charm or
-Intimidate, Common Knowledge (any two), Gossip or Ride, Magical Sense, Read/Write, Speak Arcane
+Skills: Academic Knowledge (Magic), Academic Knowledge (any two), Channelling, Charm or Intimidate, Common Knowledge (any two), Gossip or Ride, Magical Sense, Read/Write, Speak Arcane
 Language (Magick), Speak Arcane Language (Daemonic or Arcane Elf), Speak Language (any three)
 Talents: Aethyric Attunement or Meditation, Dark Magic or Strong-minded, Fast Hands or Mighty
 Missile, Lesser Magic (any two)
@@ -10960,8 +10939,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Animal Care, Common Knowledge (the Empire or the Wasteland) or
-Gossip, Navigation, Outdoor Survival, Secret Signs (Scout), Perception, Ride,
+Skills: Animal Care, Common Knowledge (the Empire or the Wasteland) or Gossip, Navigation, Outdoor Survival, Secret Signs (Scout), Perception, Ride,
 Speak Language (Reikspiel), Swim
 Talents: Orientation, Seasoned Traveller
 Trappings: Light Armour (Leather Jack), Map Case, Riding Horse with Saddle and Harness or Pony (for Halflings), Shield
@@ -11664,8 +11642,7 @@ A W SB TB M Mag IP FP
  – +2 – – – – – –
 Skills: Blather or Command, Common Knowledge (the Empire), Consume Alcohol or Performer
 (Musician), Charm, Gamble or Gossip, Read/Write, Ride, Speak Language (Reikspiel)
-Talents: Etiquette, Luck or Public Speaking, Savvy or Specialist Weapon (Fencing), Schemer or
-Specialist Weapon (Parrying)
+Talents: Etiquette, Luck or Public Speaking, Savvy or Specialist Weapon (Fencing), Schemer or Specialist Weapon (Parrying)
 Trappings: Foil, Main Gauche, Noble’s Garb, Riding Horse with Saddle and Harness, 1d10 gc, Jewellery worth
 6d10 gc
 Career Entries: Squire, Steward
@@ -12866,8 +12843,7 @@ Secondary Profile
 A W SB TB M Mag IP FP
  – +4 – – – +1 – –
 Skills: Academic Knowledge (any one), Academic Knowledge (Theology), Channelling, Charm,
-Common Knowledge (any two), Gossip, Heal, Magical Sense, Perception, Read/Write, Ride or
-Swim, Speak Arcane Language (Magick), Speak Language (any two)
+Common Knowledge (any two), Gossip, Heal, Magical Sense, Perception, Read/Write, Ride or Swim, Speak Arcane Language (Magick), Speak Language (any two)
 Talents: Armoured Caster or Master Orator, Petty Magic (Divine), Strike to Injure or Strike to
 Stun
 Trappings: Prayer Book, Writing Kit
@@ -13731,8 +13707,7 @@ Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – +1 – – –
 Skills: Dodge Blow, Navigation, Outdoor Survival, Secret Signs (Scout), Perception, Swim
-Talents: Flee!, Fleet Footed or Sixth Sense, Orientation, Rapid Reload, Very Resilient or
-Very Strong
+Talents: Flee!, Fleet Footed or Sixth Sense, Orientation, Rapid Reload, Very Resilient or Very Strong
 Trappings: Crossbow and 10 Bolts, Light Armour (Leather Jerkin), Healing Draught, Lucky
 Charm
 Career Entries: Shieldbreaker
@@ -14048,8 +14023,7 @@ A W SB TB M Mag IP FP
 +1 +6 – – – – – –
 Skills: Animal Care, Common Knowledge (any two), Concealment, Dodge Blow, Follow Trail, Navigation,
 Perception, Ride, Secret Language (Ranger Tongue), Secret Signs (Scout), Silent Move, Speak Language (any two)
-Talents: Charm Animal, Mighty Shot or Sure Shot, Orientation, Rapid Reload, Specialist Weapon (Crossbow or
-Longbow)
+Talents: Charm Animal, Mighty Shot or Sure Shot, Orientation, Rapid Reload, Specialist Weapon (Crossbow or Longbow)
 Trappings: Medium Armour (Mail Shirt and Leather Jack), Shield, 10 Yards of Rope, Horse with Saddle and
 Harness
 Career Entries: Bounty Hunter, Champion, Charcoal Burner, Coachman, Fieldwarden, Hunter, Kithband Warrior, Messenger, Miner, Outrider,
@@ -14194,8 +14168,7 @@ Secondary Profile
 A W SB TB M Mag IP FP
 +2 +6 – – – – – –
 Skills: Academic Knowledge (Strategy/Tactics), Animal Training, Command, Common Knowledge
-(any three), Dodge Blow, Perception, Sail, Speak Language (any three), Swim, Trade (Cartographer or
-Shipwright)
+(any three), Dodge Blow, Perception, Sail, Speak Language (any three), Swim, Trade (Cartographer or Shipwright)
 Talents: Disarm, Lightning Parry or Swashbuckler, Seasoned Traveller, Specialist Weapon Group
 (Fencing), Strike Mighty Blow
 Trappings: Rapier, Light Armour (Leather Jack), Telescope, Ship
@@ -14278,9 +14251,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
 +1 +2 – – – – – –
-Skills: Common Knowledge (Bretonnia, Norsca, Tilea or the Wasteland), Consume Alcohol or
-Perception, Dodge Blow, Row, Sail, Scale Sheer Surface, Speak Language (Breton, Norse or Tilean),
-Swim
+Skills: Common Knowledge (Bretonnia, Norsca, Tilea or the Wasteland), Consume Alcohol or Perception, Dodge Blow, Row, Sail, Scale Sheer Surface, Speak Language (Breton, Norse or Tilean), Swim
 Talents: Hardy or Street Fighting, Seasoned Traveller, Strike Mighty Blow or Swashbuckler
 Trappings: Leather Jerkin, Bottle of Poor Craftsmenship Spirits
 Career Entries: Boatman, Envoy, Ferryman, Fisherman, Norse Berserker, Smuggler
@@ -14359,9 +14330,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Blather or Speak Arcane Language (Daemonic or Magick), Channelling or
-Performer (Palm Reader), Charm Animal or Public Speaking, Magical Sense or
-Perception
+Skills: Blather or Speak Arcane Language (Daemonic or Magick), Channelling or Performer (Palm Reader), Charm Animal or Public Speaking, Magical Sense or Perception
 Talents: Hedge Magic or Keen Senses, Luck or Petty Magic (Hedge), Public Speaking
 Trappings: Instruments of Divination (dice, cards, a chicken, etc.)
 Career Entries: Hedge Wizard, Skald
@@ -14585,8 +14554,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
 – +2 – – – – – –
-Skills: Concealment, Dodge Blow, Follow Trail or
-Secret Signs (Scout), Perception, Scale Sheer Surface,
+Skills: Concealment, Dodge Blow, Follow Trail or Secret Signs (Scout), Perception, Scale Sheer Surface,
 Search or Swim, Silent Move
 Talents: Quick Draw or Resistance to Disease, Tunnel
 Rat
@@ -15036,8 +15004,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
 +1 +2 – – – – – –
-Skills: Animal Care or Heal, Common Knowledge (the Empire) or Perception, Dodge Blow, Drive or
-Ride, Gamble or Gossip, Intimidate
+Skills: Animal Care or Heal, Common Knowledge (the Empire) or Perception, Dodge Blow, Drive or Ride, Gamble or Gossip, Intimidate
 Talents: Disarm or Quick Draw, Sharpshooter or Strike Mighty Blow, Specialist Weapon Group
 (Gunpowder or Two-handed), Strike to Injure or Rapid Reload, Strike to Stun or Mighty Shot
 Trappings: Great Weapon (Halberd) or Firearm with ammunition for 10 shots, Shield, Light Armour (Full
@@ -15515,8 +15482,7 @@ A W SB TB M Mag IP FP
  – +2 – – – – – –
 Skills: Common Knowledge (Kislev) (Int) or Perception (Int), Consume Alcohol (T), Dodge Blow (Ag),
 Gamble (Int) or Gossip (Fel), Speak Language (Kislevarin) (Int)
-Talents: Marksman or Sharpshooter, Master Gunner or Quick Draw, Mighty Shot or
-Rapid Reload, Specialist Weapon Group (Gunpowder, Two-handed)
+Talents: Marksman or Sharpshooter, Master Gunner or Quick Draw, Mighty Shot or Rapid Reload, Specialist Weapon Group (Gunpowder, Two-handed)
 Trappings: The streltsi are all distinguishable by the smart uniforms they wear beneath a
 leather jerkin, leggings, and helmet. They carry berdysh – special pole-arms designed to improve accuracy with the firearms they also carry. Streltsi
 keep enough powder and shot to shoot their firearm up to 10 times.
@@ -15600,8 +15566,7 @@ Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
 Skills: Academic Knowledge (Necromancy), Charm, Drive or Ride, Evaluate, Gossip,
-Haggle, Hypnotism or Trade (Apothecary), Performer (any), Secret Signs (Astrologer or
-Ranger), Sleight of Hand, Speak Language (Strigany)
+Haggle, Hypnotism or Trade (Apothecary), Performer (any), Secret Signs (Astrologer or Ranger), Sleight of Hand, Speak Language (Strigany)
 Talents: Sixth Sense, Rover or Seasoned Traveller
 Trappings: Deck of Cards, Eldritch Jewellery
 Career Entries: None
@@ -15679,9 +15644,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
  – +2 – – – – – –
-Skills: Academic Knowledge (any one), Academic Knowledge (any one) or Gossip, Charm or
-Consume Alcohol, Heal or Search, Perception, Read/Write, Speak Language (Classical), Speak Language
-(Reikspiel)
+Skills: Academic Knowledge (any one), Academic Knowledge (any one) or Gossip, Charm or Consume Alcohol, Heal or Search, Perception, Read/Write, Speak Language (Classical), Speak Language (Reikspiel)
 Talents: Etiquette or Linguistics, Savvy or Suave, Seasoned Traveller or Super Numerate
 Trappings: Two Textbooks corresponding to Knowledge Skills, Writing Kit
 Career Entries: Dilettante, Envoy, Grave Robber, Minstrel, Noble, Valet
@@ -16142,8 +16105,7 @@ A W SB TB M Mag IP FP
 +1 +2 – – – – – –
 Skills: Consume Alcohol, Dodge Blow, Gamble, Intimidate, Secret Language (Thieves’
 Tongue)
-Talents: Coolheaded or Lightning Reflexes, Disarm, Resistance to Poison or Quick Draw, Strike to Injure
-or Wrestling, Strike to Stun
+Talents: Coolheaded or Lightning Reflexes, Disarm, Resistance to Poison or Quick Draw, Strike to Injure or Wrestling, Strike to Stun
 Trappings: Knuckle-dusters, Medium Armour (Mail Shirt and Leather Jerkin)
 Career Entries: ExConvict, Marine, Protagonist
 Career Exits: Bodyguard, ExConvict, Interrogator, Mercenary, Pit Fighter, Racketeer
@@ -17284,8 +17246,7 @@ A W SB TB M Mag IP FP
 +1 +5 – – – +2 – –
 Skills: Academic Knowledge (Strategy/Tactics), Academic Knowledge (Theology), Channelling, Common Knowledge (any two), Dodge Blow, Heal,
 Magical Sense, Ride, Secret Language (Battle Tongue), Speak Arcane Language (Magick), Speak Language (any one)
-Talents: Armoured Casting, Divine Lore (any one), Lesser Magic (any two), Meditation or Fast, Hands Specialist Weapon Group (Two-handed*) or
-Strike Mighty Blow
+Talents: Armoured Casting, Divine Lore (any one), Lesser Magic (any two), Meditation or Fast, Hands Specialist Weapon Group (Two-handed*) or Strike Mighty Blow
 Trappings: Great Weapon*, Medium Armour (Full Mail Armour), Religious Symbol
 Career Entries: Anointed Priest, Prelate, Priest
 Career Exits: High Priest, Knight, Prelate, Witch Hunter
@@ -17387,8 +17348,7 @@ A W SB TB M Mag IP FP
 Skills: Consume Alcohol, Navigation, Perception, Row, Sail, Swim
 Talents: Coolheaded, Excellent Vision, Hardy, Seasoned Traveller, Very Strong
 Trappings: Dagger, Lantern with four pints of Whale Oil, Light Armour (Leather
-Jack), Pipe, Spear, Bottle of Good Spirits, Lucky Charm (Scrimshaw Talisman or
-Tattoos, see WFRP page 123)
+Jack), Pipe, Spear, Bottle of Good Spirits, Lucky Charm (Scrimshaw Talisman or Tattoos, see WFRP page 123)
 Career Entries: Fisherman, Reaver, Seaman
 Career Exits: Freeholder, Marauder, Navigator, Reaver, Veteran
 Thar She Blows!
@@ -17463,8 +17423,7 @@ WS BS S T Ag Int WP Fel
 Secondary Profile
 A W SB TB M Mag IP FP
 +1 +4 – – – – – –
-Skills: Academic Knowledge (Strategy/Tactics) (Int), Animal Care (Int) or Dodge Blow (Ag), Command (Fel) or
-Navigation (Int), Common Knowledge (Kislev or Troll Country) (Int), Consume Alcohol (T), Outdoor Survival (Int),
+Skills: Academic Knowledge (Strategy/Tactics) (Int), Animal Care (Int) or Dodge Blow (Ag), Command (Fel) or Navigation (Int), Common Knowledge (Kislev or Troll Country) (Int), Consume Alcohol (T), Outdoor Survival (Int),
 Perception (Int), Ride (Ag), Secret Language (Battle Tongue) (Int), Speak Language (Kislevarin) (Int)
 Talents: Hardy or Very Resilient, Specialist Weapon Group (Cavalry), Strike Mighty Blow or Strike
 to Injure
@@ -17680,8 +17639,7 @@ Secondary Profile
 A W SB TB M Mag IP FP
  – +4 – – – +2 – –
 Skills: Animal Care or Intimidate, Channelling, Charm, Common Knowledge (any two),
-Gossip, Haggle, Heal, Magical Sense, Perception, Ride or Swim, Search, Trade (Apothecary or
-Herbalist)
+Gossip, Haggle, Heal, Magical Sense, Perception, Ride or Swim, Search, Trade (Apothecary or Herbalist)
 Talents: Dark Magic or Mighty Missile, Witchcraft
 Trappings: Healing Draught, Healing Poultice, Trade Tools (Apothecary or Herbalist)
 Career Entries: Hedge Wizard
@@ -17790,8 +17748,7 @@ Secondary Profile
 A W SB TB M Mag IP FP
  – +5 – – – +4 – –
 Skills: Academic Knowledge (Magic), Academic
-Knowledge (any three), Channelling, Charm or
-Intimidate, Common Knowledge (any three),
+Knowledge (any three), Channelling, Charm or Intimidate, Common Knowledge (any three),
 Magical Sense, Read/Write, Speak Arcane
 Language (Magick), Speak Arcane Language
 (Daemonic or Arcane Elf), Speak Language (any four)

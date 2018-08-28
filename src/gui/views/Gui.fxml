@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="800.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.GuiCtrl">
+
+    <GridPane fx:id="profileGrid" gridLinesVisible="true" layoutY="300.0" prefHeight="160.0" prefWidth="650.0">
+        <columnConstraints>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+            <ColumnConstraints halignment="CENTER" hgrow="NEVER" maxWidth="-Infinity" minWidth="10.0" prefWidth="64.0"/>
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="30" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+        </rowConstraints>
+        <children>
+            <Label text="WW">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="US" GridPane.columnIndex="1">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="S" GridPane.columnIndex="2">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="ODP" GridPane.columnIndex="3">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="ZR" GridPane.columnIndex="4">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="INT" GridPane.columnIndex="5">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="SW" GridPane.columnIndex="6">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="OGŁ" GridPane.columnIndex="7">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="A" GridPane.columnIndex="8" GridPane.rowIndex="0">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="Ż" GridPane.columnIndex="9" GridPane.rowIndex="0">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+            <Label text="MG" GridPane.columnIndex="10" GridPane.rowIndex="0">
+                <font>
+                    <Font name="System Bold" size="15.0"/>
+                </font>
+            </Label>
+        </children>
+    </GridPane>
+    <ListView fx:id="nextProf" layoutX="416.0" layoutY="58.0" prefHeight="200.0" prefWidth="220.0"/>
+
+    <TextField fx:id="search" layoutX="416.0" layoutY="19.0" prefHeight="31.0" prefWidth="220.0"/>
+
+    <Button layoutX="566.0" layoutY="258.0" mnemonicParsing="false" onAction="#choose" text="Choose"/>
+    <Button layoutX="416.0" layoutY="258.0" mnemonicParsing="false" onAction="#preview" text="Preview"/>
+
+    <Label layoutX="14.0" layoutY="14.0" text="Class tree"/>
+    <Label fx:id="firstClassTree" layoutX="100.0" layoutY="35.0"/>
+    <Label fx:id="extraClassTree" layoutX="250.0" layoutY="35.0"/>
+    <RadioButton fx:id="fc" layoutX="100.0" layoutY="14.0" mnemonicParsing="false" selected="true" text="First Class">
+        <toggleGroup>
+            <ToggleGroup fx:id="toggleGroup"/>
+        </toggleGroup>
+    </RadioButton>
+    <RadioButton fx:id="ec" layoutX="250.0" layoutY="14.0" mnemonicParsing="false" text="Extra Class"
+                 toggleGroup="$toggleGroup"/>
+
+    <Label layoutX="14.0" layoutY="274.0" text="Expo:"/>
+    <Label fx:id="expo" layoutX="50.0" layoutY="274.0"/>
+    <ListView fx:id="skillList" layoutX="16.0" layoutY="460.0" prefHeight="330.0" prefWidth="260.0"/>
+    <ListView fx:id="talentList" layoutX="325.0" layoutY="460.0" prefHeight="330.0" prefWidth="260.0"/>
+
+
+</AnchorPane>

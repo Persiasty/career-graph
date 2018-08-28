@@ -1,18 +1,29 @@
+@file:JvmName("model.Clazz")
+
+package model
+
 data class Clazz(val name: String, val type: String) {
     companion object {
         val mpStats = "WS BS S T Ag Int WP Fel".split(" ")
         val spStats = "A W SB TB M Mag IP FP".split(" ")
+
+        val guiMapping = mapOf(
+                "WS" to "ww", "BS" to "us", "S" to "s",
+                "T" to "odp", "Ag" to "zr", "Int" to "intel",
+                "WP" to "sw", "Fel" to "ogl", "A" to "a",  "W" to "z",
+                "Mag" to "mg"
+        )
     }
 
     private val m_profile = HashMap<String, Int>()
     val profile
         get() = m_profile.toMap()
 
-    private val m_skills = HashSet<String>()
+    private val m_skills = HashSet<Value>()
     val skills
         get() = m_skills.toSet()
 
-    private val m_talents = HashSet<String>()
+    private val m_talents = HashSet<Value>()
     val talents
         get() = m_talents.toSet()
 
@@ -27,7 +38,6 @@ data class Clazz(val name: String, val type: String) {
     private val m_exits = HashSet<String>()
     val exits
         get() = m_exits.toSet()
-
 
     fun setMainProfile(profileString: String) {
         val list = profileString.split(" ").map {
@@ -62,22 +72,23 @@ data class Clazz(val name: String, val type: String) {
     }
 
     fun setSkills(skillsString: String) {
-        m_skills.addAll(
-                skillsString.replace("\\([^\\)]+\\)".toRegex(), "")
-                        .split(",|\r?\n".toRegex())
-                        .map { it.trim() }
-                        .filter { it.length > 2 }
-                        .toList()
-        )
+        val skills = skillsString.replace("\\([^\\)]+\\)".toRegex(), "")
+                .split(",|\r?\n".toRegex())
+                .map { it.trim() }
+                .filter { it.length > 2 }
+                .map { Value(it.split("or").map { it.trim() }) }
+                .toList()
+
+        m_skills.addAll(skills)
     }
     fun setTalents(talentsString: String) {
-        m_talents.addAll(
-                talentsString.replace("\\([^\\)]+\\)".toRegex(), "")
-                        .split(",|\r?\n".toRegex())
-                        .map { it.trim() }
-                        .filter { it.length > 2 }
-                        .toList()
-        )
+        val talents = talentsString.replace("\\([^\\)]+\\)".toRegex(), "")
+                .split(",|\r?\n".toRegex())
+                .map { it.trim() }
+                .filter { it.length > 2 }
+                .map { Value(it.split("or").map { it.trim() }) }
+                .toList()
+        m_talents.addAll(talents)
     }
     fun setTrappings(trappingsString: String) {
         m_trappings.addAll(trappingsString.split(",|\r?\n".toRegex()).map { it.trim() }.toList())
@@ -90,6 +101,6 @@ data class Clazz(val name: String, val type: String) {
     }
 
     override fun toString(): String {
-        return "$name ($type): $profile, $skills, $talents"
+        return "$name ($type)"
     }
 }
